@@ -21,6 +21,4 @@ public class TestServlet extends HttpServlet {
         }
         response.getWriter().println("It works");
     }
-
-
 }
